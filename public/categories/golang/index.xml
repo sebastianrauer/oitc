@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golang on openITC Workshop Insights</title>
+    <link>http://yoursite.example.com/categories/golang/</link>
+    <description>Recent content in Golang on openITC Workshop Insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Sep 2016 10:22:24 +0200</lastBuildDate>
+    <atom:link href="http://yoursite.example.com/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>two</title>
+      <link>http://yoursite.example.com/post/two/</link>
+      <pubDate>Thu, 08 Sep 2016 10:22:24 +0200</pubDate>
+      
+      <guid>http://yoursite.example.com/post/two/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>one</title>
+      <link>http://yoursite.example.com/post/one/</link>
+      <pubDate>Thu, 08 Sep 2016 10:22:07 +0200</pubDate>
+      
+      <guid>http://yoursite.example.com/post/one/</guid>
+      <description>
+
+&lt;h1 id=&#34;heading&#34;&gt;heading&lt;/h1&gt;
+
+&lt;p&gt;this is text&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
