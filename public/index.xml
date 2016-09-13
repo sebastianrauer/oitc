@@ -10,25 +10,62 @@
     <atom:link href="http://yoursite.example.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>two</title>
-      <link>http://yoursite.example.com/post/two/</link>
+      <title>insights</title>
+      <link>http://yoursite.example.com/post/insights/</link>
       <pubDate>Thu, 08 Sep 2016 10:22:24 +0200</pubDate>
       
-      <guid>http://yoursite.example.com/post/two/</guid>
+      <guid>http://yoursite.example.com/post/insights/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>one</title>
-      <link>http://yoursite.example.com/post/one/</link>
+      <title>next</title>
+      <link>http://yoursite.example.com/post/next/</link>
+      <pubDate>Thu, 08 Sep 2016 10:22:24 +0200</pubDate>
+      
+      <guid>http://yoursite.example.com/post/next/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recap</title>
+      <link>http://yoursite.example.com/post/recap/</link>
+      <pubDate>Thu, 08 Sep 2016 10:22:24 +0200</pubDate>
+      
+      <guid>http://yoursite.example.com/post/recap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workshop</title>
+      <link>http://yoursite.example.com/post/workshop/</link>
+      <pubDate>Thu, 08 Sep 2016 10:22:24 +0200</pubDate>
+      
+      <guid>http://yoursite.example.com/post/workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>http://yoursite.example.com/post/</link>
       <pubDate>Thu, 08 Sep 2016 10:22:07 +0200</pubDate>
       
-      <guid>http://yoursite.example.com/post/one/</guid>
-      <description>
+      <guid>http://yoursite.example.com/post/</guid>
+      <description>&lt;p&gt;Diese Seite dient als Nachschlagewerk zum 2 tägigen Workshop welcher am 4. und 5. September in Fulda stattfand.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Margin Note in Arithmetica</title>
+      <link>http://yoursite.example.com/publication/fermats-last-theorem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://yoursite.example.com/publication/fermats-last-theorem/</guid>
+      <description>&lt;p&gt;I have discovered a truly marvellous proof of this, which this margin
+is too narrow to contain:&lt;/p&gt;
 
-&lt;h1 id=&#34;heading&#34;&gt;heading&lt;/h1&gt;
-
-&lt;p&gt;this is text&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;There are no positive integers such that $x^n + y^n = z^n$ for $ n&amp;gt;2 $.
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     

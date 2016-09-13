@@ -7,13 +7,32 @@
   </url>
   
   <url>
-    <loc>http://yoursite.example.com/post/two/</loc>
+    <loc>http://yoursite.example.com/post/insights/</loc>
     <lastmod>2016-09-08T10:22:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://yoursite.example.com/post/one/</loc>
+    <loc>http://yoursite.example.com/post/next/</loc>
+    <lastmod>2016-09-08T10:22:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.example.com/post/recap/</loc>
+    <lastmod>2016-09-08T10:22:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.example.com/post/workshop/</loc>
+    <lastmod>2016-09-08T10:22:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.example.com/post/</loc>
     <lastmod>2016-09-08T10:22:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.example.com/publication/fermats-last-theorem/</loc>
   </url>
   
 </urlset>
